@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">English</string>
+    <string name="start">Начать</string>
+    <string name="back">Назад</string>
+    <string name="level1">Уровень 1</string>
+    <string name="level2">Уровень 2</string>
+    <string name="level3">Уровень 3</string>
+    <string name="level4">Уровень 4</string>
+    <string name="level5">Уровень 5</string>
+    <string name="level6">Уровень 6</string>
+    <string name="level">Прогресс:</string>
+    <string name="main">Основное</string>
+    <string name="txtcontinue">Продолжить</string>
+    <string name="vopros">Вставьте в слово пропущенную букву</string>
+    <string name="vopros1">Выберите правильный варинт ответа</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="proverka">Проверить</string>
+    <string name="next">Далее</string>
+    <string name="animal">Животные</string>
+    <string name="english">Изучаем английский</string>
+    <string name="eat">еда</string>
+    <string name="colors">цвета</string>
+</resources>

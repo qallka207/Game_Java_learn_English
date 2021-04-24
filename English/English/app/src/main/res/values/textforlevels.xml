@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bird">bird</string>
+    <string name="book">book</string>
+    <string name="boy">boy</string>
+    <string name="egg">egg</string>
+    <string name="girl">girl</string>
+    <string name="man">man</string>
+    <string name="woman">woman</string>
+
+    <string name="cat">cat</string>
+    <string name="dog">dog</string>
+    <string name="mouse">mouse</string>
+    <string name="owl">owl</string>
+    <string name="rabbit">rabbit</string>
+    <string name="doll">doll</string>
+
+    <string name="apple">apple</string>
+    <string name="banana">banana</string>
+    <string name="donut">donut</string>
+    <string name="orange">orange</string>
+    <string name="pineapple">pineapple</string>
+
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="pink">pink</string>
+    <string name="yellow">yellow</string>
+
+    <string name="v1">Отметье слово девочка</string>
+    <string name="v2">Отметьте слово книга</string>
+    <string name="v3">отметьте слово мальчик</string>
+    <string name="v4">Отметьте слово мужчина</string>
+    <string name="v5">Отметьте слово женщина</string>
+
+    <string name="v41">Отметье слово мышка</string>
+    <string name="v42">Отметьте слово кошка</string>
+    <string name="v43">отметьте слово зайка</string>
+    <string name="v44">Отметьте слово совушка</string>
+    <string name="v45">Отметьте слово собачка</string>
+
+    <string name="v71">Отметье слово яблоко</string>
+    <string name="v72">Отметьте слово банан</string>
+    <string name="v73">отметьте слово пончик</string>
+    <string name="v74">Отметьте слово апельсин</string>
+    <string name="v75">Отметьте слово ананас</string>
+
+    <string name="v101">Отметье красный цвет</string>
+    <string name="v102">Отметьте оранжевый цвет</string>
+    <string name="v103">отметьте зелёный цвет</string>
+    <string name="v104">Отметьте розовый цвет</string>
+    <string name="v105">Отметьте жёлтый цвет</string>
+
+    <string name="m">m</string>
+    <string name="s">s</string>
+    <string name="p">p</string>
+    <string name="w">w</string>
+    <string name="d">d</string>
+    <string name="n">n</string>
+    <string name="ll">ll</string>
+
+    <string name="c">c</string>
+    <string name="o">o</string>
+    <string name="rab">rab</string>
+    <string name="use">use</string>
+    <string name="t">t</string>
+    <string name="g">g</string>
+    <string name="l">l</string>
+    <string name="it">it</string>
+
+    <string name="ap">ap</string>
+    <string name="ban">ban</string>
+    <string name="na">na</string>
+    <string name="oran">oran</string>
+    <string name="pine">pine</string>
+    <string name="pple">pple</string>
+    <string name="e">e</string>
+    <string name="nut">nut</string>
+    <string name="le">le</string>
+
+    <string name="r">r</string>
+    <string name="or">or</string>
+    <string name="y">y</string>
+
+    <string name="nge">nge</string>
+    <string name="een">een</string>
+    <string name="nk">nl</string>
+    <string name="llow">llow</string>
+
+    <string name="q1">long - длинный?</string>
+    <string name="q2">sun - светит?</string>
+    <string name="q3">rectangle - круг?</string>
+    <string name="q4">doll - кукла?</string>
+    <string name="q5">pen - пенал?</string>
+
+    <string name="q61">cat - кошка?</string>
+    <string name="q62">owl - кролик?</string>
+    <string name="q63">cow - коза?</string>
+    <string name="q64">bear - медведь?</string>
+    <string name="q65">fox - лиса?</string>
+
+    <string name="q91">pineapple - ручка?</string>
+    <string name="q92">orange - ананас?</string>
+    <string name="q93">apple - яблоко?</string>
+    <string name="q94">owl - пончик?</string>
+    <string name="q95">banana - банан?</string>
+
+    <string name="q121">green - голубой?</string>
+    <string name="q122">orange - яблоко?</string>
+    <string name="q123">red - красный?</string>
+    <string name="q124">pink - свинка?</string>
+    <string name="q125">yellow - розовый?</string>
+</resources>
